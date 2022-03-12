@@ -1,0 +1,6 @@
+Q.4) write four Features of JavaScript ?
+
+ Ans- light weight scripting language
+ Functional style
+ Client side-validation
+ Object oriented programming language
